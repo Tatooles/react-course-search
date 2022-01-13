@@ -1,18 +1,25 @@
 {
   "files": {
-    "main.css": "/react-course-search/static/css/main.d1b05096.chunk.css",
-    "main.js": "/react-course-search/static/js/main.7317f94d.chunk.js",
-    "main.js.map": "/react-course-search/static/js/main.7317f94d.chunk.js.map",
-    "runtime~main.js": "/react-course-search/static/js/runtime~main.5ae92447.js",
-    "runtime~main.js.map": "/react-course-search/static/js/runtime~main.5ae92447.js.map",
-    "static/js/2.ea490775.chunk.js": "/react-course-search/static/js/2.ea490775.chunk.js",
-    "static/js/2.ea490775.chunk.js.map": "/react-course-search/static/js/2.ea490775.chunk.js.map",
-    "static/js/3.d439ba6f.chunk.js": "/react-course-search/static/js/3.d439ba6f.chunk.js",
-    "static/js/3.d439ba6f.chunk.js.map": "/react-course-search/static/js/3.d439ba6f.chunk.js.map",
+    "main.css": "/react-course-search/static/css/main.9fd5223c.chunk.css",
+    "main.js": "/react-course-search/static/js/main.182abfcf.chunk.js",
+    "main.js.map": "/react-course-search/static/js/main.182abfcf.chunk.js.map",
+    "runtime-main.js": "/react-course-search/static/js/runtime-main.ed7b1c05.js",
+    "runtime-main.js.map": "/react-course-search/static/js/runtime-main.ed7b1c05.js.map",
+    "static/css/2.68a81a89.chunk.css": "/react-course-search/static/css/2.68a81a89.chunk.css",
+    "static/js/2.f405a17e.chunk.js": "/react-course-search/static/js/2.f405a17e.chunk.js",
+    "static/js/2.f405a17e.chunk.js.map": "/react-course-search/static/js/2.f405a17e.chunk.js.map",
     "index.html": "/react-course-search/index.html",
-    "precache-manifest.d007a7485b1d1444c840c05a745a62c1.js": "/react-course-search/precache-manifest.d007a7485b1d1444c840c05a745a62c1.js",
+    "precache-manifest.e4f75611951e26a9ce295d60a161c7b6.js": "/react-course-search/precache-manifest.e4f75611951e26a9ce295d60a161c7b6.js",
     "service-worker.js": "/react-course-search/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/react-course-search/static/css/main.d1b05096.chunk.css.map",
-    "static/media/logo.svg": "/react-course-search/static/media/logo.06e73328.svg"
-  }
+    "static/css/2.68a81a89.chunk.css.map": "/react-course-search/static/css/2.68a81a89.chunk.css.map",
+    "static/css/main.9fd5223c.chunk.css.map": "/react-course-search/static/css/main.9fd5223c.chunk.css.map",
+    "static/js/2.f405a17e.chunk.js.LICENSE.txt": "/react-course-search/static/js/2.f405a17e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed7b1c05.js",
+    "static/css/2.68a81a89.chunk.css",
+    "static/js/2.f405a17e.chunk.js",
+    "static/css/main.9fd5223c.chunk.css",
+    "static/js/main.182abfcf.chunk.js"
+  ]
 }
