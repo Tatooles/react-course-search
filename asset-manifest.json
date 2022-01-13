@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-course-search/static/css/main.d1b05096.chunk.css",
-    "main.js": "/react-course-search/static/js/main.63dc14f7.chunk.js",
-    "main.js.map": "/react-course-search/static/js/main.63dc14f7.chunk.js.map",
+    "main.js": "/react-course-search/static/js/main.7317f94d.chunk.js",
+    "main.js.map": "/react-course-search/static/js/main.7317f94d.chunk.js.map",
     "runtime~main.js": "/react-course-search/static/js/runtime~main.5ae92447.js",
     "runtime~main.js.map": "/react-course-search/static/js/runtime~main.5ae92447.js.map",
     "static/js/2.ea490775.chunk.js": "/react-course-search/static/js/2.ea490775.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.d439ba6f.chunk.js": "/react-course-search/static/js/3.d439ba6f.chunk.js",
     "static/js/3.d439ba6f.chunk.js.map": "/react-course-search/static/js/3.d439ba6f.chunk.js.map",
     "index.html": "/react-course-search/index.html",
-    "precache-manifest.1979af1c337c31ac8b9b30203d9015bf.js": "/react-course-search/precache-manifest.1979af1c337c31ac8b9b30203d9015bf.js",
+    "precache-manifest.d007a7485b1d1444c840c05a745a62c1.js": "/react-course-search/precache-manifest.d007a7485b1d1444c840c05a745a62c1.js",
     "service-worker.js": "/react-course-search/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/react-course-search/static/css/main.d1b05096.chunk.css.map",
     "static/media/logo.svg": "/react-course-search/static/media/logo.06e73328.svg"
