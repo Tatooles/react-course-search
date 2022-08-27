@@ -227,9 +227,6 @@ class App extends React.Component {
   render() {
     return (
       <>
-        <div style={{ textAlign: 'center', backgroundColor: 'lightblue', padding: '10px', height: '10vh' }}>
-          <h1>Course Search & Enroll</h1>
-        </div>
         <Container>
           <Offcanvas show={this.state.show} placement="end" onHide={this.handleClose}>
             <Offcanvas.Header closeButton style={{ borderBottomStyle: 'solid', borderWidth: '2px' }}>
@@ -246,6 +243,7 @@ class App extends React.Component {
 
           <Row>
             <Col xs={4} style={{ height: '90vh', overflowY: 'auto' }}>
+              <h1 style={{ paddingBottom: '10px', paddingTop: '10px', textAlign: 'center'}}>Course Search & Enroll</h1>
               <Sidebar
                 setCourses={(courses) => this.setCourses(courses)}
                 courses={this.state.allCourses}
